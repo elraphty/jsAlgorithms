@@ -43,4 +43,10 @@
       Ceaser cipher is an algorithm that takes a given string and a number and shift each letter in the string by the given number passed.
     </td>
   </tr>
+  <tr>
+    <td>Bubble Sort</td>
+    <td>
+      Bubble sort is a popular sorting algorithm that properly sorts an array in ascending order using Exponential Runtime Big O Notation "0 (n ^ 2).
+    </td>
+  </tr>
 </table>
