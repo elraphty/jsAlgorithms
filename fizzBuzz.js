@@ -1,6 +1,7 @@
 /**
  * 
- * Fizz buzz returns fizz when the number is divisible by 3,buzz when the number is divisible by 5 and fizz Buzz when it is divisible by 15, its a common javascript algorithm you can also achieve this functionality with any given sets of number 3, 5 and 15 is not a constant
+ * Fizz buzz returns fizz when the number is divisible by 3,buzz when the number is divisible by 5 and fizz Buzz when it is divisible by 15, its a common javascript algorithm you can also achieve this functionality with any given sets of number 3, 5 and 15 is not a constant.
+ * 
  */
 
 
