@@ -49,4 +49,18 @@
       Bubble sort is a popular sorting algorithm that properly sorts an array in ascending order using Exponential Runtime Big O Notation "0 (n ^ 2).
     </td>
   </tr>
+  <tr>
+    <td>Fibonacci</td>
+    <td>
+      Fibonacci is an algorithm that returns a sequence of numbers the first two numbers are 1 then every other number after that is the sum of the two previoues numbers e.g 1 1 2 3 5 8 13 21 34 55 89 ..... so in this example we want to check for the number at a given position.
+    </td>
+  </tr>
+  <tr>
+    <td>Harmless Ransome Note</td>
+    <td>
+      Harmless ransome note is an algorithm, that take in a checks 
+      if a a list of words in a string is present in another
+      string and also present in the right proportion.
+    </td>
+  </tr>
 </table>
